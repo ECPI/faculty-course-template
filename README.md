@@ -1,0 +1,1 @@
+# faculty-course-template
