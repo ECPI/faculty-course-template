@@ -28,20 +28,18 @@ By using this repository, students will:
 
 ## Repository Structure
 
+## Repository Structure
+
 faculty-course-template/
-|
-|-- labs/
-|   |-- lab-01-template.md
-|   |-- lab-02-template.md
-|   `-- ...
-|
-|-- assignments/
-|   `-- (optional future use)
-|
-|-- resources/
-|   `-- (supporting materials, guides, datasets)
-|
-`-- README.md
+├── labs/
+│   ├── lab-01-template.md
+│   ├── lab-02-template.md
+│   └── ...
+├── assignments/
+│   └── (optional future use)
+├── resources/
+│   └── (supporting materials, guides, datasets)
+└── README.md
 
 ### Key Directories
 
