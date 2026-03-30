@@ -30,6 +30,7 @@ By using this repository, students will:
 
 ## Repository Structure
 
+```
 faculty-course-template/
 ├── labs/
 │   ├── lab-01-template.md
@@ -40,6 +41,7 @@ faculty-course-template/
 ├── resources/
 │   └── (supporting materials, guides, datasets)
 └── README.md
+```
 
 ### Key Directories
 
