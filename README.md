@@ -169,3 +169,5 @@ Students are expected to demonstrate:
 - Proper Git usage  
 - Structured workflow discipline  
 - Clear and traceable submissions  
+
+Lab 01 Complete
