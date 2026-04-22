@@ -173,3 +173,5 @@ Students are expected to demonstrate:
 Lab 01 Complete
 
 Lab 01 Complete
+
+Lab 01 Complete
